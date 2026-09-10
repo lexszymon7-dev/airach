@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_13_POZOSTALE",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "5242125736-20260831-738375C00007-52",
+  "data_wplywu_ksef": "2026-08-31",
+  "nr_dokumentu": "U/2026/253",
+  "data_wystawienia": "2026-08-31",
+  "data_sprzedazy": "2026-08-30",
+  "termin_platnosci": "2026-09-14",
+  "kontrahent": {
+    "nazwa": "ODL Sp. z o.o.",
+    "nip": "5242125736",
+    "ulica": "Cokołowa 41",
+    "kod": "01-384",
+    "miasto": "Warszawa",
+    "adres": "Cokołowa 41, 01-384 Warszawa"
+  },
+  "kwoty": {
+    "netto": 340.0,
+    "vat": 78.2,
+    "brutto": 418.2,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Serwis oprogramowania",
+  "nazwa_pliku": "ksef-import-1789528181-0.pdf"
+}

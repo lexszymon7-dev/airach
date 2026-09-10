@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_13_POZOSTALE",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "6391894972-20260827-64C9F5800016-BA",
+  "data_wplywu_ksef": "2026-08-27",
+  "nr_dokumentu": "SWOD/77916/2026",
+  "data_wystawienia": "2026-08-27",
+  "data_sprzedazy": "2026-08-27",
+  "termin_platnosci": "2026-09-11",
+  "kontrahent": {
+    "nazwa": "Wodociągi Raciborskie Spółka z ograniczoną odpowiedzialnością",
+    "nip": "6391894972",
+    "ulica": "ul. 1-go Maja 8",
+    "kod": "47-400",
+    "miasto": "Racibórz",
+    "adres": "ul. 1-go Maja 8, 47-400 Racibórz"
+  },
+  "kwoty": {
+    "netto": 65.31,
+    "vat": 5.22,
+    "brutto": 70.53,
+    "stawka_vat": 8
+  },
+  "opis_gospodarczy": "Woda i ścieki",
+  "nazwa_pliku": "ksef-import-1742279626-0.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_13_POZOSTALE",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "6392024078-20260828-3B5F49000000-84",
+  "data_wplywu_ksef": "2026-08-28",
+  "nr_dokumentu": "A0158/08/2026/C/FVS",
+  "data_wystawienia": "2026-08-26",
+  "data_sprzedazy": "2026-08-26",
+  "termin_platnosci": "2026-09-05",
+  "kontrahent": {
+    "nazwa": "AWG BIURO RACHUNKOWE & USŁUGI BHP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "nip": "6392024078",
+    "ulica": "Jana Pawła II 5",
+    "kod": "47-440",
+    "miasto": "Nędza",
+    "adres": "Jana Pawła II 5, 47-440 Nędza"
+  },
+  "kwoty": {
+    "netto": 892.6,
+    "vat": 205.3,
+    "brutto": 1097.9,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Usługi księgowe",
+  "nazwa_pliku": "ksef-import-1750919093-0.pdf"
+}

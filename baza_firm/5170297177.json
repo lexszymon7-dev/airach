@@ -1,0 +1,9 @@
+{
+  "nazwa": "Firma Testowa Sp. z o.o.",
+  "nip": "5170297177",
+  "pkd_glowne": "62.01.Z - Oprogramowanie",
+  "pkd_dodatkowe": "47.91.Z - Handel internetowy",
+  "profil_auta": "test mieszany",
+  "instrukcje_specjalne": "Faktury za paliwo i myjnie to zawsze SAMOCHOD_MIESZANY.",
+  "reguly_kontrahentow": {}
+}

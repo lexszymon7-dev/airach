@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_13_POZOSTALE",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "6391820399-20260801-0C50DA000000-AA",
+  "data_wplywu_ksef": "2026-08-01",
+  "nr_dokumentu": "FV4038/2026",
+  "data_wystawienia": "2026-08-01",
+  "data_sprzedazy": "2026-08-01",
+  "termin_platnosci": "2026-08-15",
+  "kontrahent": {
+    "nazwa": "PARTNER SECURITY Mariusz Kłosek",
+    "nip": "6391820399",
+    "ulica": "Łąkowa 8",
+    "kod": "47-400",
+    "miasto": "Racibórz",
+    "adres": "Łąkowa 8, 47-400 Racibórz"
+  },
+  "kwoty": {
+    "netto": 106.66,
+    "vat": 24.53,
+    "brutto": 131.19,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Monitorowanie systemu",
+  "nazwa_pliku": "ksef-import-1423655115-0.pdf"
+}

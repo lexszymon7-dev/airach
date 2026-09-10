@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_10_TOWARY",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "5482288774-20260806-6287D7000001-A7",
+  "data_wplywu_ksef": "2026-08-06",
+  "nr_dokumentu": "FS 4786/MM/08/2026",
+  "data_wystawienia": "2026-08-06",
+  "data_sprzedazy": "2026-08-06",
+  "termin_platnosci": "2026-08-20",
+  "kontrahent": {
+    "nazwa": "WEBER & WEBER sp. z o.o.",
+    "nip": "5482288774",
+    "ulica": "ul. Cieszyńska 229",
+    "kod": "43-400",
+    "miasto": "Cieszyn",
+    "adres": "ul. Cieszyńska 229, 43-400 Cieszyn"
+  },
+  "kwoty": {
+    "netto": 801.84,
+    "vat": 64.15,
+    "brutto": 865.99,
+    "stawka_vat": 8
+  },
+  "opis_gospodarczy": "Podkłady medyczne",
+  "nazwa_pliku": "ksef-import-1490005157-0.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_10_TOWARY",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "9291847897-20260810-8A705D800001-B5",
+  "data_wplywu_ksef": "2026-08-10",
+  "nr_dokumentu": "FS/20/08/2026",
+  "data_wystawienia": "2026-08-10",
+  "data_sprzedazy": "2026-08-10",
+  "termin_platnosci": "2026-08-17",
+  "kontrahent": {
+    "nazwa": "HIGHLANDER ENTERPRISE SPÓŁKA AKCYJNA",
+    "nip": "9291847897",
+    "ulica": "ul. Romanowicza 19B",
+    "kod": "30-702",
+    "miasto": "Kraków",
+    "adres": "ul. Romanowicza 19B, 30-702 Kraków"
+  },
+  "kwoty": {
+    "netto": 667.4,
+    "vat": 153.5,
+    "brutto": 820.9,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Zakup lakierów i akcesoriów",
+  "nazwa_pliku": "ksef-import-1541504885-0.pdf"
+}

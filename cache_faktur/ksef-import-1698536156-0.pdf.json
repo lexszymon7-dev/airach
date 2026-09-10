@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "SAMOCHOD_MIESZANY",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": true,
+  "nr_ksef": "7491032928-20260823-9E5458C00018-D1",
+  "data_wplywu_ksef": "2026-08-23",
+  "nr_dokumentu": "FS 1406/SRC/08/2026",
+  "data_wystawienia": "2026-08-23",
+  "data_sprzedazy": "2026-08-23",
+  "termin_platnosci": "2026-08-23",
+  "kontrahent": {
+    "nazwa": "P.H.U. POTGAZ Jan Potoniec",
+    "nip": "7491032928",
+    "ulica": "Rybnicka 33",
+    "kod": "47-400",
+    "miasto": "Racibórz",
+    "adres": "Rybnicka 33, 47-400 Racibórz"
+  },
+  "kwoty": {
+    "netto": 182.78,
+    "vat": 14.62,
+    "brutto": 197.4,
+    "stawka_vat": 8
+  },
+  "opis_gospodarczy": "Zakup paliwa EuroSuper Pb95",
+  "nazwa_pliku": "ksef-import-1698536156-0.pdf"
+}

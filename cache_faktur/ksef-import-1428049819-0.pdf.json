@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_13_POZOSTALE",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": true,
+  "nr_ksef": "7792308495-20260801-49B9D7000009-83",
+  "data_wplywu_ksef": "2026-08-01",
+  "nr_dokumentu": "2027/1400137078",
+  "data_wystawienia": "2026-07-31",
+  "data_sprzedazy": "2026-07-31",
+  "termin_platnosci": "2026-07-31",
+  "kontrahent": {
+    "nazwa": "PayU S.A.",
+    "nip": "7792308495",
+    "ulica": "Grunwaldzka 186",
+    "kod": "60-166",
+    "miasto": "Poznań",
+    "adres": "Grunwaldzka 186, 60-166 Poznań"
+  },
+  "kwoty": {
+    "netto": 2.55,
+    "vat": 0.0,
+    "brutto": 2.55,
+    "stawka_vat": "zw"
+  },
+  "opis_gospodarczy": "Prowizja PayU",
+  "nazwa_pliku": "ksef-import-1428049819-0.pdf"
+}

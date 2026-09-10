@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_10_TOWARY",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": true,
+  "nr_ksef": "6343005827-20260831-767BF4400003-97",
+  "data_wplywu_ksef": "2026-08-31",
+  "nr_dokumentu": "478/8/2026",
+  "data_wystawienia": "2026-08-20",
+  "data_sprzedazy": "2026-08-20",
+  "termin_platnosci": "2026-08-20",
+  "kontrahent": {
+    "nazwa": "PROWORK POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "nip": "6343005827",
+    "ulica": "Aleja Bohaterów Września 9/10/219A",
+    "kod": "02-389",
+    "miasto": "Warszawa",
+    "adres": "Aleja Bohaterów Września 9/10/219A, 02-389 Warszawa"
+  },
+  "kwoty": {
+    "netto": 811.59,
+    "vat": 186.66,
+    "brutto": 998.25,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Zakup żeli kosmetycznych",
+  "nazwa_pliku": "ksef-import-1789822842-0.pdf"
+}

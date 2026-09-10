@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_13_POZOSTALE",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": true,
+  "nr_ksef": "6762667154-20260819-6A36F4400012-36",
+  "data_wplywu_ksef": "2026-08-19",
+  "nr_dokumentu": "48/8/2026",
+  "data_wystawienia": "2026-08-15",
+  "data_sprzedazy": "2026-08-15",
+  "termin_platnosci": "2026-08-15",
+  "kontrahent": {
+    "nazwa": "MK CRAFT & TRADE Sp. z o.o.",
+    "nip": "6762667154",
+    "ulica": "ul. Maćka z Bogdańca 16",
+    "kod": "30-398",
+    "miasto": "Kraków",
+    "adres": "ul. Maćka z Bogdańca 16, 30-398 Kraków"
+  },
+  "kwoty": {
+    "netto": 195.12,
+    "vat": 44.88,
+    "brutto": 240.0,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Przedłużacz listwa",
+  "nazwa_pliku": "ksef-import-1646829852-0.pdf"
+}

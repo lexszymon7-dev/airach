@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_10_TOWARY",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": false,
+  "nr_ksef": "6392033350-20260831-8CB67540007F-23",
+  "data_wplywu_ksef": "2026-08-31",
+  "nr_dokumentu": "Det GDI/5/08/2026",
+  "data_wystawienia": "2026-08-31",
+  "data_sprzedazy": "2026-08-31",
+  "termin_platnosci": "2026-09-30",
+  "kontrahent": {
+    "nazwa": "GDI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "nip": "6392033350",
+    "ulica": "Plac Wolności 13/1",
+    "kod": "47-400",
+    "miasto": "Racibórz",
+    "adres": "Plac Wolności 13/1, 47-400 Racibórz"
+  },
+  "kwoty": {
+    "netto": 4533.07,
+    "vat": 1025.68,
+    "brutto": 5558.75,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Zakup towarów handlowych",
+  "nazwa_pliku": "ksef-import-1791297714-0.pdf"
+}

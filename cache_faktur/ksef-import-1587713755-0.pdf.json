@@ -1,0 +1,28 @@
+{
+  "kierunek": "ZAKUP",
+  "kategoria_pkpir": "KOLUMNA_10_TOWARY",
+  "typ_dokumentu": "Faktura VAT",
+  "czy_zaplacono": true,
+  "nr_ksef": "7890004862-20260814-7F26D5000060-EF",
+  "data_wplywu_ksef": "2026-08-14",
+  "nr_dokumentu": "FS 1176/03/2026",
+  "data_wystawienia": "2026-08-14",
+  "data_sprzedazy": "2026-08-14",
+  "termin_platnosci": "2026-08-14",
+  "kontrahent": {
+    "nazwa": "P.H. Progress Daniel Więcek",
+    "nip": "7890004862",
+    "ulica": "Wrocławska 43",
+    "kod": "62-300",
+    "miasto": "Września",
+    "adres": "Wrocławska 43, 62-300 Września"
+  },
+  "kwoty": {
+    "netto": 495.25,
+    "vat": 113.91,
+    "brutto": 609.16,
+    "stawka_vat": 23
+  },
+  "opis_gospodarczy": "Zakup towarów",
+  "nazwa_pliku": "ksef-import-1587713755-0.pdf"
+}
